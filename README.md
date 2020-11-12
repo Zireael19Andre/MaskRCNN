@@ -3,7 +3,7 @@ Work for research
 ---
 BackGround
 ---
-from FAIR(Facebook AI Research) Team ALG,I modified the network to fix missdection issue using aerial images.
+from FAIR(Facebook AI Research) Team ALG,I modified the network to fix missdection issue using aerial images.</br>
 Paper presatated in Asian Conference on Remote Sensing - 2020.
 - iteration_loss(exsample)
   - use the result log to draw iteration and all-type loss curve
