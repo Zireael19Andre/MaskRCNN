@@ -10,6 +10,6 @@ Paper submitted to Asian Conference on Remote Sensing - 2020.</br>
   ![image](https://github.com/Zireael19Andre/MaskRCNN/blob/master/image/loss_vis.jpg)
 - prediction(exsample)
   - MaskRCNN official solution (Pytorch ver) don't provide visulization for image prediction(Both BBox and Segm).
-  I write a simple scripts.
+  I write a simple scripts(demo/predictf.py).
   ![image](https://github.com/Zireael19Andre/MaskRCNN/blob/master/image/BBox.png)
   ![image](https://github.com/Zireael19Andre/MaskRCNN/blob/master/image/Segm.png)
