@@ -6,7 +6,7 @@ BackGround
 from FAIR(Facebook AI Research) Team ALG,I modified the network to fix missdection issue using aerial images.</br>
 Paper submitted to Asian Conference on Remote Sensing - 2020.</br>
 - iteration_loss(exsample)
-  - use the result log to draw iteration and all-type loss curve
+  - use the result log to draw iteration and all-type loss curve（Los_Vis.py）
   ![image](https://github.com/Zireael19Andre/MaskRCNN/blob/master/image/loss_vis.jpg)
 - prediction(exsample)
   - MaskRCNN official solution (Pytorch ver) don't provide visulization for image prediction(Both BBox and Segm).</br>
